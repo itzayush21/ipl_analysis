@@ -1,5 +1,6 @@
 # ipl_analysis
-📊 Data Analyst | 🖥️ Data Visualization | 🤖 Machine Learning 
+📊 Data Analyst | 🖥️ Data Visualization | 🤖 Machine Learning
+I utilized machine learning algorithms to forecast the final scores of IPL matches by analyzing ball-by-ball data from 2008-2021. I was able to achieve an impressive R² score of 0.93 using Random Forest Regression. This project encompasses diverse data visualizations that offer in-depth insights into player and team performances over the years,
 
 The Indian Premier League (IPL) has evolved into a global sporting phenomenon, capturing the attention of cricket enthusiasts and researchers alike. This literature review aims to provide an overview of existing studies that delve into the multifaceted world of the IPL, with a specific focus on data science analyses and the utilization of machine learning for predicting match scores.
 1. Player Performance Analysis: Numerous studies have delved into individual player performances in the IPL, aiming to identify the top runs and wicket-getters. Researchers have employed statistical metrics such as strike rates and averages to assess the efficacy of players, thereby uncovering the key contributors to team success. This body of work sheds light on the pivotal roles played by standout players in influencing match outcomes.
